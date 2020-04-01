@@ -1,0 +1,21 @@
+* {
+    margin: auto;
+}
+
+.border {
+    border-style: solid;
+}
+
+header {
+    margin-top: 235px;
+    margin-bottom: 50px;
+    margin-left: 170px;
+    margin-right: 170px;
+    padding: 20px;
+}
+
+main {
+    padding: 50px;
+    margin-left: 115px;
+    margin-right: 115px;
+}
